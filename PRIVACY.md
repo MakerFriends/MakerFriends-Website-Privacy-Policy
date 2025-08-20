@@ -2,7 +2,7 @@
 
 **Last updated:** 08 09, 2025
 
-Richard J. Lewis DBA MakerFriends (“we,” “our,” or “us”) values your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and disclose your information when you visit our website MakerFriends.com (the “Site”) or use our services. By using our Site, you consent to the terms of this Privacy Policy.
+Name Name DBA MakerFriends (“we,” “our,” or “us”) values your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and disclose your information when you visit our website MakerFriends.com (the “Site”) or use our services. By using our Site, you consent to the terms of this Privacy Policy.
 
 ---
 
@@ -124,6 +124,6 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
-Richard J. Lewis DBA MakerFriends  
-Email: richlewis007+mfprivacy@gmail.com  
-Address: 1234 Patterson Rd. Dayton, OH 45420
+Name Name DBA MakerFriends  
+Email: +mfprivacy@gmail.com  
+Address: 1234 Street Rd. Dayton, OH 45420
